@@ -1,0 +1,25 @@
+{
+  "name": "fullnodejsrecap",
+  "version": "1.0.0",
+  "description": "personal recap of all node js lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariadiprana/FullNodeJSRecap.git"
+  },
+  "author": "Ari Adiprana <ari.adiprana@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariadiprana/FullNodeJSRecap/issues"
+  },
+  "homepage": "https://github.com/ariadiprana/FullNodeJSRecap#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "lodash": "^4.17.2",
+    "morgan": "^1.7.0"
+  }
+}
