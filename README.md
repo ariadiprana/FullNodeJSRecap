@@ -1,2 +1,6 @@
-# FullNodeJSRecap
-personal recap of all node js lessons
+Personal Node Recap Template
+
+```console
+npm install
+npm start
+```
